@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 1387" preserveAspectRatio="xMidYMid slice">
+    <defs>
+        <linearGradient id="promo-mobile-gradient1" x1="0" y1="1" x2="0" y2="0" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#131928" stop-opacity="0"></stop>
+        <stop offset="0.91" stop-color="#7880ab"></stop>
+        <stop offset="1" stop-color="#828bb8"></stop>
+        </linearGradient>
+        <linearGradient id="promo-mobile-gradient2" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#ecedfb"></stop>
+        <stop offset="0.09" stop-color="#d8dae8"></stop>
+        <stop offset="1" stop-color="#141a29" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="promo-mobile-gradient3" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#141a29" stop-opacity="0"></stop>
+        <stop offset="0.91" stop-color="#d8dae8"></stop>
+        <stop offset="1" stop-color="#ecedfb"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M0-1.07,750-2V1388H0Z" fill="#0e1422"></path>
+    <g>
+        <g>
+        <path d="M599-2h78l1,442-79-16Z" fill="#0c111e"></path>
+        <path d="M474-2H599V425.52L475,399Z" fill="#1d1f31"></path>
+        </g>
+        <path d="M651-1.89V436l99,21V-2Z" fill="#1a1e2f"></path>
+        <g opacity="0.6" fill="#424e69">
+        <path d="M588.4,396,533,386.21v4L588.4,400Z"></path>
+        <path d="M562.2,375.15l-77.4-12.2v4l77.4,12.2Z"></path>
+        <path d="M576.82,361l-14.94-1.85v4L576.82,365v-4Z"></path>
+        <path d="M544.63,355.92l-52.79-7.32v4l52.79,7.31v-4Z"></path>
+        </g>
+    </g>
+    <g>
+        <g fill="#191d30">
+        <path d="M0-2H51V443L0,455Z" opacity="0.7"></path>
+        <path d="M51-2h69V429L51,443Z" opacity="0.8"></path>
+        <path d="M120-2h52V418l-52,11Z" opacity="0.9"></path>
+        <path d="M169-2h52V408l-52,11Z"></path>
+        <path d="M221-2h47V398l-47,10Z"></path>
+        </g>
+        <g opacity="0.3" fill="#424e69">
+        <path d="M103.6,405,257,376.21v4L103.6,409v-4Z"></path>
+        <path d="M51.8,394.15l153.4-25.2v4L51.8,398.15Z"></path>
+        <path d="M211.18,368l14.94-1.85v4L211.18,372v-4Z"></path>
+        <path d="M161.37,358.92l52.79-7.31v4l-52.79,7.31v-4Z"></path>
+        <path d="M82.68,409.31l14.94-3.2v4l-14.94,3.2Z"></path>
+        </g>
+    </g>
+    <g>
+        <path d="M0,466l266-68,209,1.73L750,469v920H10Z" fill="#161d2c" opacity="0.6"></path>
+        <path d="M475,399l275,70V456Z" fill="#1a202f"></path>
+        <path d="M268,398,0,466V450Z" fill="#1a202f"></path>
+    </g>
+    <path d="M370,398h4l19,991H359Z" fill="#1a202f"></path>
+    <g opacity="0.03" fill="#ecedfb">
+        <path d="M0,1176H68L11,1391H0Z"></path>
+        <path d="M119,1176h79.62L167,1391H73Z"></path>
+        <path d="M245.23,1176h79.62L317,1391H225Z"></path>
+        <path d="M425,1179.87l79.53-3.86L520,1391H428Z"></path>
+        <path d="M551.1,1176h79.62L670,1388.45H577Z"></path>
+        <path d="M683.29,1176H750v215H735Z"></path>
+    </g>
+    <g>
+        <rect x="268" y="-2" width="207" height="401" fill="#ecedfb"></rect>
+        <g fill="#d5d7e5">
+        <circle cx="372" cy="34" r="36"></circle>
+        <rect x="367" y="78" width="7" height="96"></rect>
+        <rect x="360" y="205" width="22" height="22"></rect>
+        <rect x="360" y="270" width="22" height="22"></rect>
+        </g>
+        <g>
+        <path d="M268,398,0,453l750,1L475,399Z" opacity="0.6" fill="url(#promo-mobile-gradient1)"></path>
+        <path d="M475,399l267,54V-2H475Z" opacity="0.33" fill="url(#promo-mobile-gradient2)"></path>
+        <path d="M268,398,1,453V-2H268Z" opacity="0.33" fill="url(#promo-mobile-gradient3)"></path>
+        </g>
+        <g>
+        <path d="M370,356l-2,43h8l-5-43Z" fill="#505d7d"></path>
+        <path d="M376,355l-7-6-1,7Z" fill="#505d7d"></path>
+        <path d="M369,398l-39,52,47-51" fill="#1c253b" opacity="0.6"></path>
+        </g>
+    </g>
+</svg>
