@@ -11,18 +11,12 @@
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.5",
-    "@typescript-eslint/eslint-plugin": "^3.0.2",
-    "@typescript-eslint/parser": "^3.0.2",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.3",
-    "history": "^4.10.1",
     "package.json": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "react-text-loop": "^2.3.0",
-    "typescript": "^3.7.5"
+    "react-text-loop": "^2.3.0"
   },
   "scripts": {
     "start": "npm run watch:css  && react-scripts start",
@@ -54,10 +48,16 @@
     ]
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.0.2",
+    "@typescript-eslint/parser": "^3.0.2",
     "autoprefixer": "^9.8.0",
     "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-react-app": "^5.2.1",
+    "eslint-plugin-prettier": "^3.1.3",
     "postcss-cli": "^7.1.1",
     "prettier": "^2.0.5",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.4.6",
+    "typescript": "^3.7.5"
   }
 }

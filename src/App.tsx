@@ -7,6 +7,7 @@ import './assets/main.css'
 import Hero from './sections/hero'
 import Canidates from './sections/canidates'
 import Footer from './sections/footer'
+
 const Home = () => (
   <div>
     <Hero />
